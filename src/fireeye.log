@@ -1,0 +1,2 @@
+2023-07-06 20:43:38,420 - DEBUG - middleware.py - request_logger - 35 - [GET] /api/v1/users, client=127.0.0.1
+2023-07-06 20:48:46,420 - DEBUG - middleware.py - request_logger - 35 - [GET] /api/v1/users, client=127.0.0.1

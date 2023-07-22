@@ -1,0 +1,2 @@
+获取华为API token:
+https://apiexplorer.developer.huaweicloud.com/apiexplorer/debug?product=IAM&api=KeystoneCreateUserTokenByPassword

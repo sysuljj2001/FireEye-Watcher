@@ -1,3 +1,4 @@
 name: "logger"
 level: "DEBUG"
-file: "/var/log/fireeye.log"
+# file: "/var/log/fireeye.log"
+file: "fireeye.log"
